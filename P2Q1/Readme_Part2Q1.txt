@@ -1,17 +1,10 @@
 
--------------------------------------------------------------------------------------------------------
-Introduction
--------------------------------------------------------------------------------------------------------
-
 Solving the Map/Reduce problem assigned in the class "Big Data 
 Programming" we will be utilizing a Hadoop cluster hosted in Google 
 Cloud. The cluster will contain a Master/Worker node and 2 additional 
 worker nodes. The source data is provided in a csv format and will be
 streamed line-by-line via Hadoop through the Map/Reduce architecture.
 
--------------------------------------------------------------------------------------------------------
-Artifacts
--------------------------------------------------------------------------------------------------------
 
 The following components are required to solve the assigned problem:
 
