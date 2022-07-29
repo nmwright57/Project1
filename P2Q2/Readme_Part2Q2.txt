@@ -1,34 +1,9 @@
-------------------------------------------------------------------------------------------------------
-CISC5950 – Big Data Programming – Spring 2022
-Professor: Ying Mao
-Project 1 - Part2 Question 2
-Date 4/5/2022
-Students: Yuliya Akchurina, Claire Bloss, Devika Chandnani, Natalie Wright
--------------------------------------------------------------------------------------------------------
-
-                               README
-
--------------------------------------------------------------------------------------------------------
-CONTENTS
--------------------------------------------------------------------------------------------------------
-
-     o Introduction
-     o Artifacts
-     o Execution
- 
--------------------------------------------------------------------------------------------------------
-Introduction
--------------------------------------------------------------------------------------------------------
-
 Solving the Map/Reduce problem assigned in the class "Big Data 
 Programming" we will be utilizing a Hadoop cluster hosted in Google 
 Cloud. The cluster will contain a Master/Worker node and 2 additional 
 worker nodes. The source data is provided in a csv format and will be
 streamed line-by-line via Hadoop through the Map/Reduce architecture.
 
--------------------------------------------------------------------------------------------------------
-Artifacts
--------------------------------------------------------------------------------------------------------
 
 The following components are required to solve the assigned problem:
 
